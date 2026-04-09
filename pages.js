@@ -91,8 +91,8 @@ PAGES.home = () => `
     <div class="showcase-card featured reveal">
       <div class="showcase-img"><img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80" alt="CRM Software Dashboard" loading="lazy"/><div class="showcase-img-overlay"><span class="showcase-badge">Featured</span><span class="showcase-badge dark">Software</span></div></div>
       <div class="showcase-body">
-        <div class="showcase-cat">Enterprise Software</div>
-        <div class="showcase-title">Enterprise CRM System — Built from Scratch</div>
+        <div class="showcase-cat">Entsoftwarerise Software</div>
+        <div class="showcase-title">Entsoftwarerise CRM System — Built from Scratch</div>
         <div class="showcase-desc">Built a complete multi-tenant CRM platform with role-based access, lead management, deal pipelines, email integration, and real-time analytics dashboard.</div>
         <div class="showcase-tags"><span class="showcase-tag">Next.js</span><span class="showcase-tag">Node.js</span><span class="showcase-tag">PostgreSQL</span><span class="showcase-tag">Real-time</span></div>
         <div class="showcase-result"><div class="showcase-result-icon">${ICONS.results}</div><div><div class="showcase-result-text">10x Operational Efficiency</div><div class="showcase-result-sub">Client reduced 3 tools to 1 unified platform</div></div></div>
@@ -280,7 +280,7 @@ PAGES.about = () => `
   <section class="milestones">
     <div class="section-header reveal"><div><div class="section-tag">By The Numbers</div><h2 class="section-title">What We've Achieved</h2></div></div>
     <div class="milestones-grid">
-      <div class="milestone-item reveal"><div class="milestone-num">50<span>+</span></div><div class="milestone-label">Projects Delivered</div><div class="milestone-desc">From small businesses to enterprise-level software, every project shipped on time.</div></div>
+      <div class="milestone-item reveal"><div class="milestone-num">50<span>+</span></div><div class="milestone-label">Projects Delivered</div><div class="milestone-desc">From small businesses to entsoftwarerise-level software, every project shipped on time.</div></div>
       <div class="milestone-item reveal"><div class="milestone-num">1<span>yr</span></div><div class="milestone-label">In Operation</div><div class="milestone-desc">Founded in 2024, growing fast and building a legacy one client at a time.</div></div>
       <div class="milestone-item reveal"><div class="milestone-num">98<span>%</span></div><div class="milestone-label">Client Retention</div><div class="milestone-desc">Clients don't just come once — they keep coming back. That's the real proof.</div></div>
       <div class="milestone-item reveal"><div class="milestone-num">5<span>★</span></div><div class="milestone-label">Average Rating</div><div class="milestone-desc">Perfect ratings across every engagement. Quality is non-negotiable here.</div></div>
@@ -315,13 +315,13 @@ PAGES.work = () => `
 
   <!-- CASE STUDY 1: CRM SOFTWARE -->
   <section class="portfolio-section" style="background: var(--white);">
-    <div class="section-header reveal"><div><div class="section-tag">Case Study #1</div><h2 class="section-title">Enterprise CRM Software</h2></div></div>
+    <div class="section-header reveal"><div><div class="section-tag">Case Study #1</div><h2 class="section-title">Entsoftwarerise CRM Software</h2></div></div>
     <div class="case-study-card reveal">
       <div class="case-study-img"><img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80" alt="CRM Dashboard Analytics" loading="lazy"/></div>
       <div class="case-study-body">
         <div class="case-study-label">Custom Software Development</div>
         <div class="case-study-title">Multi-Tenant CRM Platform — Built from Ground Up</div>
-        <div class="case-study-desc">We built a complete enterprise-grade CRM system from scratch. The platform includes lead management, deal pipelines, email integration with tracking, real-time analytics dashboard, role-based access control, and a Super Admin panel for managing multiple client organizations.</div>
+        <div class="case-study-desc">We built a complete entsoftwarerise-grade CRM system from scratch. The platform includes lead management, deal pipelines, email integration with tracking, real-time analytics dashboard, role-based access control, and a Super Admin panel for managing multiple client organizations.</div>
         <div class="showcase-tags"><span class="showcase-tag">Next.js</span><span class="showcase-tag">Node.js</span><span class="showcase-tag">PostgreSQL</span><span class="showcase-tag">WebSocket</span><span class="showcase-tag">REST API</span></div>
         <div class="case-study-stats">
           <div><div class="cs-stat-num">10x</div><div class="cs-stat-label">Efficiency Gain</div></div>
