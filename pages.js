@@ -28,7 +28,7 @@ PAGES.home = () => `
   <div class="hero-left">
     <div class="hero-tag">Digital Transformation Studio</div>
     <h1 class="hero-title">We Build<br/>What <em>Matters</em><br/>Most.</h1>
-    <p class="hero-sub">From social media strategy to custom ERP systems — we engineer digital solutions that scale your business and simplify complexity.</p>
+    <p class="hero-sub">From social media strategy to custom software systems — we engineer digital solutions that scale your business and simplify complexity.</p>
     <div class="hero-actions">
       <a href="#/contact" class="btn-primary" data-link><span>Start a Project</span></a>
       <a href="#/services" class="btn-ghost" data-link>Explore Services ${ICONS.arrow}</a>
@@ -47,7 +47,7 @@ PAGES.home = () => `
         <div class="code-browser"><div class="browser-bar"><div class="browser-dots"><span class="t-dot t-red"></span><span class="t-dot t-yellow"></span><span class="t-dot t-green"></span></div><div class="browser-url"><span class="url-lock">🔒</span><span>thehdstudios.com</span></div></div><div class="browser-body"><div class="browser-skeleton"><div class="sk-nav"></div><div class="sk-hero"><div class="sk-h1"></div><div class="sk-h2"></div><div class="sk-btn"></div></div><div class="sk-cards"><div class="sk-card c1"></div><div class="sk-card c2"></div><div class="sk-card c3"></div></div></div><div class="build-progress-wrap"><div class="build-label">Building...</div><div class="build-bar"><div class="build-fill" id="buildFill"></div></div><div class="build-pct" id="buildPct">0%</div></div></div></div>
       </div>
       <div class="float-card float-card-1"><div class="card-icon">${ICONS.chart}</div><div class="card-title">Social Reach</div><div class="card-value">↑ 340% this month</div></div>
-      <div class="float-card float-card-2"><div class="card-icon">${ICONS.monitor}</div><div class="card-title">ERP System</div><div class="card-value">Live & Deployed ✓</div></div>
+      <div class="float-card float-card-2"><div class="card-icon">${ICONS.monitor}</div><div class="card-title">Software System</div><div class="card-value">Live & Deployed ✓</div></div>
       <div class="float-card float-card-3"><div class="card-icon">${ICONS.clock}</div><div class="card-title">Delivery Time</div><div class="card-value">Avg. 14 days</div></div>
     </div>
     <div class="ticker"><div class="ticker-inner">
@@ -63,7 +63,7 @@ PAGES.home = () => `
     <a href="#/services" class="section-link" data-link>View all services ${ICONS.arrow}</a>
   </div>
   <div class="services-grid" style="grid-template-columns: repeat(3, 1fr);">
-    <div class="service-card"><div class="service-num">01</div><div class="service-icon">${ICONS.software}</div><div class="service-name">Custom Software Development</div><div class="service-desc">Custom CRM, ERP systems, lab management software, and internal business tools — built to replace complexity with efficiency.</div><a href="#/services" class="service-arrow" data-link>Learn more →</a></div>
+    <div class="service-card"><div class="service-num">01</div><div class="service-icon">${ICONS.software}</div><div class="service-name">Custom Software Development</div><div class="service-desc">Custom CRM, software systems, lab management software, and internal business tools — built to replace complexity with efficiency.</div><a href="#/services" class="service-arrow" data-link>Learn more →</a></div>
     <div class="service-card"><div class="service-num">02</div><div class="service-icon">${ICONS.web}</div><div class="service-name">Web Development</div><div class="service-desc">Custom websites & web apps built with modern tech stacks — fast, responsive, and conversion-optimized for growth.</div><a href="#/services" class="service-arrow" data-link>Learn more →</a></div>
     <div class="service-card"><div class="service-num">03</div><div class="service-icon">${ICONS.mobile}</div><div class="service-name">Mobile App Development</div><div class="service-desc">Native and cross-platform mobile apps for Android & iOS with clean UI, smooth performance, and scalable backends.</div><a href="#/services" class="service-arrow" data-link>Learn more →</a></div>
   </div>
@@ -155,9 +155,9 @@ PAGES.services = () => `
       <div class="sdc-num">01</div>
       <div class="sdc-icon">${ICONS.software}</div>
       <div class="sdc-title">Custom Software Development</div>
-      <div class="sdc-desc">Custom CRM systems, ERP platforms, lab management software, and internal business tools. We build software that replaces complexity with efficiency.</div>
+      <div class="sdc-desc">Custom CRM systems, software platforms, lab management software, and internal business tools. We build software that replaces complexity with efficiency.</div>
       <ul class="sdc-features">
-        <li>Custom CRM & ERP Systems</li>
+        <li>Custom CRM & Software Systems</li>
         <li>Lab Management Software</li>
         <li>Internal Business Tools</li>
         <li>API Development & Integration</li>
@@ -258,7 +258,7 @@ PAGES.about = () => `
         <h1 class="section-title">Built from Passion.<br/>Driven by Results.</h1>
         <p class="about-story"><strong>THE HD STUDIOS</strong> was founded in 2024 by <strong>Hasnat Ibrahim</strong> — a young digital entrepreneur with a singular vision: to build a studio that doesn't just deliver services, but delivers <strong>transformation</strong>.</p>
         <p class="about-story">What started as a solo operation quickly became a force in the digital space. Hasnat built THE HD STUDIOS from the ground up — no shortcuts, just relentless dedication to craft. Every client project is treated as if it were his own business, with the same level of urgency, creativity, and precision.</p>
-        <p class="about-story">From social media strategies that turned brands into communities, to complex ERP systems that replaced entire operational teams — THE HD STUDIOS punches far above its weight. Because great work doesn't require a big team. It requires the right mindset.</p>
+        <p class="about-story">From social media strategies that turned brands into communities, to complex software systems that replaced entire operational teams — THE HD STUDIOS punches far above its weight. Because great work doesn't require a big team. It requires the right mindset.</p>
         <div class="about-founder-card">
           <div class="founder-avatar">HI</div>
           <div>

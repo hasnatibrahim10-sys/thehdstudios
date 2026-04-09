@@ -118,7 +118,7 @@ function initTerminal() {
     { text: '[DEV] Compiling tech-stack modules...', color: 't-fn' },
     { text: '>> GET /api/v1/transformation', color: 't-cmd' },
     { text: 'STATUS: 200 OK', color: 't-ok' },
-    { text: 'Loading: Custom_ERP_Module.js', color: 't-str' },
+    { text: 'Loading: Custom_Software_Module.js', color: 't-str' },
     { text: 'Loading: AI_Optimization_Engine.bin', color: 't-str' },
     { text: 'Loading: Shopify_Fluid_Theme.liquid', color: 't-str' },
     { text: '[SUCCESS] Deployment complete.', color: 't-ok' },

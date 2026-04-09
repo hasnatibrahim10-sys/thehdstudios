@@ -51,7 +51,7 @@ function initTerminal() {
     { html: '<span class="t-cmt">// initializing THE HD STUDIOS...</span>', delay: 400 },
     { html: '<span class="t-kw">const</span> <span class="t-fn">studio</span> = {', delay: 750 },
     { html: '  <span class="t-str">name</span>: <span class="t-warn">"THE HD STUDIOS"</span>,', delay: 1100 },
-    { html: '  <span class="t-str">services</span>: [<span class="t-warn">"ERP"</span>, <span class="t-warn">"Web"</span>, <span class="t-warn">"SMM"</span>],', delay: 1450 },
+    { html: '  <span class="t-str">services</span>: [<span class="t-warn">"Software"</span>, <span class="t-warn">"Web"</span>, <span class="t-warn">"SMM"</span>],', delay: 1450 },
     { html: '  <span class="t-str">clients</span>: <span class="t-num">50</span>, <span class="t-str">rating</span>: <span class="t-num">5.0</span>', delay: 1800 },
     { html: '}', delay: 2100 },
     { html: '<span class="t-fn">deploy</span>(<span class="t-fn">studio</span>.<span class="t-str">build</span>())', delay: 2450 },
