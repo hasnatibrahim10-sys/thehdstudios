@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://thehdstudios.qzz.io/sitemap.xml
